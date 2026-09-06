@@ -112,10 +112,8 @@ pytest -q
 ```
 
 ## Ghi chú
-
-Mã nguồn được **viết với sự hỗ trợ của AI** (mô hình ngôn ngữ lớn) và do con
-người rà soát, kiểm thử trước khi phát hành (~150 test cases, `pytest -q`).
-Nếu gặp lỗi hoặc hành vi lạ, mở issue kèm output của `/.debug`.
+> Mã nguồn được **viết với sự hỗ trợ của AI** (mô hình ngôn ngữ lớn) và do con người rà soát, kiểm thử trước khi phát hành (~150 test cases, `pytest -q`).
+> Nếu gặp lỗi hoặc hành vi lạ, mở issue kèm output của `/.debug`.
 
 ## License
 
